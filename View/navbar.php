@@ -16,10 +16,10 @@
 </div>
 
 <div>
-  <img src="images/4.jpg" class="img-responsive">
+  <img src="../images/4.jpg" class="img-responsive">
 </div>
 
 <!-- JAVASCRIPTS -->
-<script src="layout/scripts/jquery.min.js"></script>
-<script src="layout/scripts/jquery.backtotop.js"></script>
-<script src="layout/scripts/jquery.mobilemenu.js"></script>
+<script src="../layout/scripts/jquery.min.js"></script>
+<script src="../layout/scripts/jquery.backtotop.js"></script>
+<script src="../layout/scripts/jquery.mobilemenu.js"></script>

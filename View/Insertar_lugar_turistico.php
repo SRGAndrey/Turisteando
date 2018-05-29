@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <?php include("head.php");?>
+  <?php include("../head.php");?>
 </head>
 <body>
 <?php
@@ -16,7 +16,7 @@
 
 	</div>
 	<?php
-	include("footer.php");
+	include("../footer.php");
 	?>
 	</body>
 </html>
